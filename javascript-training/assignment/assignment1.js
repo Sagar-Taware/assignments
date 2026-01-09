@@ -50,8 +50,8 @@ console.log("Current Year is:" +currentYear);
 let followersOnSocialMedia=1000000;
 console.log("Number of followers on a social media platform:" +followersOnSocialMedia);
 
-//12.Rating of a movie: 7.5
-let movieRating=7.5;
+//12.Rating of a movie: 7.50
+let movieRating=7.50;
 console.log("Rating of Movie:" +movieRating);
 
 //13.Person's blood type: 'A'
